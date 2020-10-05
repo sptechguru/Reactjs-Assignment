@@ -1,9 +1,5 @@
 import React from 'react';
-import * as FaIcons from 'react-icons/fa';
-import * as AiIcons from 'react-icons/fa';
-import * as IoIcons from 'react-icons/io';
-import * as FaAngellist from "react-icons/fa";
-import { AiOutlineBarcode } from "react-icons/fa";
+
 
 export const SidebarData = [
   {
