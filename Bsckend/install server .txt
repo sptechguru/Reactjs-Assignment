@@ -1,0 +1,8 @@
+
+          i am using fack json server . and   installing process.
+
+
+1) npm install
+
+
+2) npm start 
